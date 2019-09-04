@@ -18,12 +18,12 @@
     ],
     "checkver": {
         "url": "https://builder.blender.org/download/",
-        "re": "(?:Windows 64 bit<small>.*? - )(.*?)(?:</small>)"
+        "re": "(?:Windows 64 bit.*?<small>.*? - )(.*?)(?:</small>)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://builder.blender.org/download/blender-2.81-$version-win64.zip",
+                "url": "https://builder.blender.org/download/blender-2.81-$version-windows64.zip",
                 "extract_dir": "blender-2.81.0-git.$version-windows64"
             }
         }
