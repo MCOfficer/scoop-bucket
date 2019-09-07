@@ -7,7 +7,7 @@
         "64bit": {
             "url": "https://builder.blender.org/download/blender-2.81-abeab4fcad66-windows64.zip",
             "hash": "a7cb559b7386bdd98be6867bd413ae51825e06436e0f8e4922b84ba961e9b51f",
-            "extract_dir": "blender-2.81.0-git.abeab4fcad66-windows64"
+            "extract_dir": "blender-2.81-abeab4fcad66-windows64"
         }
     },
     "bin": [
