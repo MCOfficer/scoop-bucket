@@ -1,13 +1,13 @@
 {
     "description": "Blender Experimental Builds - Use at your own risk",
     "homepage": "https://builder.blender.org",
-    "version": "2019-10-17.812b30daf582",
+    "version": "2019-10-18.382e7ce9ecfb",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://builder.blender.org/download/blender-2.81-812b30daf582-windows64.zip",
-            "hash": "d0616447787bfd762be6699f61b7fedca9314c8a48ddb29d5054cf96d1f8fa6e",
-            "extract_dir": "blender-2.81.0-git.812b30daf582-windows64"
+            "url": "https://builder.blender.org/download/blender-2.81-382e7ce9ecfb-windows64.zip",
+            "hash": "a88f8b75a478682bfdcc3e3462c88fa569e5e2e2b393783e47b653ce2599073b",
+            "extract_dir": "blender-2.81.0-git.382e7ce9ecfb-windows64"
         }
     },
     "bin": [
