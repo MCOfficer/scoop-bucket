@@ -23,8 +23,8 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://builder.blender.org/download/blender-2.81-$version-windows64.zip",
-                "extract_dir": "blender-2.81.0-git.$version-windows64"
+                "url": "https://builder.blender.org/download/blender-2.82-$version-windows64.zip",
+                "extract_dir": "blender-2.82-$version-windows64"
             }
         }
     }
