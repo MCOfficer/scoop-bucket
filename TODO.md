@@ -1,6 +1,5 @@
 - [lsd](https://github.com/Peltoche/lsd) (Will have Windows builds soon™)
 - [stevenarella](https://github.com/iceiix/stevenarella#downloads)
-- [concat](https://github.com/ArneVogel/concat)
 - [trojan](https://github.com/trojan-gfw/trojan)
 - [KomodoEdit](https://github.com/Komodo/KomodoEdit)
 - [flint](https://github.com/pengwynn/flint)
