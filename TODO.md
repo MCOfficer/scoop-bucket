@@ -2,4 +2,10 @@
 - [stevenarella](https://github.com/iceiix/stevenarella#downloads)
 - [windows95](https://github.com/felixrieseberg/windows95)
 - [concat](https://github.com/ArneVogel/concat)
+- [trojan](https://github.com/trojan-gfw/trojan)
+- [KomodoEdit](https://github.com/Komodo/KomodoEdit)
+- [flint](https://github.com/pengwynn/flint)
+- [cuberite](https://cuberite.org/)
+- [tomahawk](https://github.com/tomahawk-player/tomahawk#download-tomahawk)
+- [sonic-pi](https://github.com/samaaron/sonic-pi)
 
