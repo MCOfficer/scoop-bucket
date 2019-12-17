@@ -17,7 +17,6 @@
 - [lwd](https://github.com/timdp/lwc)
 - [pewpew](https://github.com/bengadbois/pewpew)
 - [pomerium](https://github.com/pomerium/pomerium)
-- [scaleway-cli](https://github.com/scaleway/scaleway-cli)
 - [skm](https://github.com/TimothyYe/skm)
 - [vegeta](https://github.com/tsenart/vegeta)
 - [Compactor](https://github.com/Freaky/Compactor)
