@@ -11,7 +11,6 @@
 - [drone-jenkins](https://github.com/appleboy/drone-jenkins)
 - [drone-scp](https://github.com/appleboy/drone-scp)
 - [gitea-github-migrator](https://git.jonasfranz.software/JonasFranzDEV/gitea-github-migrator)
-- [furnace](https://github.com/go-furnace/go-furnace)
 - [govvv](https://github.com/ahmetb/govvv)
 - [kcli](https://github.com/cswank/kcli)
 - [lstags](https://github.com/ivanilves/lstags)
