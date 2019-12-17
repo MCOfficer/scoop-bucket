@@ -21,3 +21,4 @@
 - [scaleway-cli](https://github.com/scaleway/scaleway-cli)
 - [skm](https://github.com/TimothyYe/skm)
 - [vegeta](https://github.com/tsenart/vegeta)
+- [Compactor](https://github.com/Freaky/Compactor)
