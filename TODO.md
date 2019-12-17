@@ -7,7 +7,6 @@
 - [bombardier](https://github.com/codesenberg/bombardier)
 - [blast](https://github.com/dave/blast)
 - [depcharge](https://github.com/centerorbit/depcharge)
-- [dockerfile-generator](https://github.com/ozankasikci/dockerfile-generator)
 - [drone-jenkins](https://github.com/appleboy/drone-jenkins)
 - [drone-scp](https://github.com/appleboy/drone-scp)
 - [gitea-github-migrator](https://git.jonasfranz.software/JonasFranzDEV/gitea-github-migrator)
