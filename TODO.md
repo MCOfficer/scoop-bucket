@@ -12,7 +12,6 @@
 - [gitea-github-migrator](https://git.jonasfranz.software/JonasFranzDEV/gitea-github-migrator)
 - [govvv](https://github.com/ahmetb/govvv)
 - [kcli](https://github.com/cswank/kcli)
-- [lstags](https://github.com/ivanilves/lstags)
 - [lwd](https://github.com/timdp/lwc)
 - [pewpew](https://github.com/bengadbois/pewpew)
 - [pomerium](https://github.com/pomerium/pomerium)
