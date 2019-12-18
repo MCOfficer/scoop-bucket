@@ -21,4 +21,3 @@
 - [fselect](https://github.com/jhspetersson/fselect)
 - [mdlt](https://github.com/metadelta/mdlt)
 - [calories](https://github.com/zupzup/calories)
-- [libqalculate](https://github.com/Qalculate/libqalculate)
