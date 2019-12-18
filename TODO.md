@@ -10,5 +10,4 @@
 - [govvv](https://github.com/ahmetb/govvv)
 - [kcli](https://github.com/cswank/kcli)
 - [lwd](https://github.com/timdp/lwc)
-- [pomerium](https://github.com/pomerium/pomerium)
 - [vegeta](https://github.com/tsenart/vegeta)

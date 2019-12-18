@@ -1,0 +1,27 @@
+{
+    "description": "Pomerium is an identity-aware access proxy.",
+    "homepage": "https://www.pomerium.io/",
+    "version": "0.5.2",
+    "license": "Apache-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/pomerium/pomerium/releases/download/v0.5.2/pomerium-windows-amd64#/pomerium.exe",
+            "hash": "6e8b39f8fd0fb59bab8e1d0758cf6cf6baad2127993285ffbdf2c0ae7801fde8"
+        }
+    },
+    "bin": "pomerium.exe",
+    "checkver": {
+        "github": "https://github.com/pomerium/pomerium"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/pomerium/pomerium/releases/download/v$version/pomerium-windows-amd64#/pomerium.exe",
+                "hash": {
+                    "url": "https://github.com/pomerium/pomerium/releases/download/v$version/pomerium-windows-amd64.sha256",
+                    "find": "^([a-fA-F0-9]{32,128}).*pomerium-windows-amd64$"
+                }
+            }
+        }
+    }
+}
