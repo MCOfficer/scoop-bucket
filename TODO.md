@@ -13,4 +13,3 @@
 - [pomerium](https://github.com/pomerium/pomerium)
 - [skm](https://github.com/TimothyYe/skm)
 - [vegeta](https://github.com/tsenart/vegeta)
-- [Compactor](https://github.com/Freaky/Compactor)
