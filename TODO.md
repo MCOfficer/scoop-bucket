@@ -9,7 +9,6 @@
 - [depcharge](https://github.com/centerorbit/depcharge)
 - [drone-jenkins](https://github.com/appleboy/drone-jenkins)
 - [drone-scp](https://github.com/appleboy/drone-scp)
-- [gitea-github-migrator](https://git.jonasfranz.software/JonasFranzDEV/gitea-github-migrator)
 - [govvv](https://github.com/ahmetb/govvv)
 - [kcli](https://github.com/cswank/kcli)
 - [lwd](https://github.com/timdp/lwc)
