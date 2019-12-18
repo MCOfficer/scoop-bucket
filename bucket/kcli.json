@@ -1,0 +1,14 @@
+{
+    "description": "Kcli is a kafka read only command line browser.",
+    "homepage": "https://github.com/cswank/kcli",
+    "version": "1.8.0",
+    "license": "MIT",
+    "url": "https://github.com/cswank/kcli/releases/download/1.8.0/kcli.zip",
+    "hash": "1603980ea39ef3eaba70dc096f33b92ae2393f2cc09ce9b8a500191bb49940fa",
+    "extract_dir": "kcli/windows",
+    "bin": "kcli.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/cswank/kcli/releases/download/$version/kcli.zip"
+    }
+}

@@ -7,4 +7,3 @@
 - [bombardier](https://github.com/codesenberg/bombardier)
 - [blast](https://github.com/dave/blast)
 - [depcharge](https://github.com/centerorbit/depcharge)
-- [kcli](https://github.com/cswank/kcli)
