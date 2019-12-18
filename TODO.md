@@ -12,7 +12,6 @@
 - [govvv](https://github.com/ahmetb/govvv)
 - [kcli](https://github.com/cswank/kcli)
 - [lwd](https://github.com/timdp/lwc)
-- [pewpew](https://github.com/bengadbois/pewpew)
 - [pomerium](https://github.com/pomerium/pomerium)
 - [skm](https://github.com/TimothyYe/skm)
 - [vegeta](https://github.com/tsenart/vegeta)
