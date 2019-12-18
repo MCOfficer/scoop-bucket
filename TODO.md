@@ -9,4 +9,3 @@
 - [depcharge](https://github.com/centerorbit/depcharge)
 - [govvv](https://github.com/ahmetb/govvv)
 - [kcli](https://github.com/cswank/kcli)
-- [lwd](https://github.com/timdp/lwc)
