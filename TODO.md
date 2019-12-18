@@ -18,4 +18,3 @@
 - [cointop](https://github.com/miguelmota/cointop)
 - [q](https://github.com/harelba/q)
 - [tre](https://github.com/dduan/tre)
-- [fselect](https://github.com/jhspetersson/fselect)
