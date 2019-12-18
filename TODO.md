@@ -20,4 +20,3 @@
 - [tre](https://github.com/dduan/tre)
 - [fselect](https://github.com/jhspetersson/fselect)
 - [mdlt](https://github.com/metadelta/mdlt)
-- [calories](https://github.com/zupzup/calories)
