@@ -19,4 +19,3 @@
 - [q](https://github.com/harelba/q)
 - [tre](https://github.com/dduan/tre)
 - [fselect](https://github.com/jhspetersson/fselect)
-- [mdlt](https://github.com/metadelta/mdlt)
