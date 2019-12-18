@@ -1,0 +1,34 @@
+{
+    "description": "Copy files and artifacts via SSH using a binary, docker or Drone CI.",
+    "homepage": "https://github.com/appleboy/drone-scp",
+    "version": "1.5.4",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/appleboy/drone-scp/releases/download/v1.5.4/drone-scp-v1.5.4-windows-amd64.exe#/drone-scp.exe",
+            "hash": "1a81367b0afb6e2742ed31c84ce3767e5ab62d3e8cbcad67d8793346e1aba957"
+        },
+        "32bit": {
+            "url": "https://github.com/appleboy/drone-scp/releases/download/v1.5.4/drone-scp-v1.5.4-windows-386.exe#/drone-scp.exe",
+            "hash": "6e1e2f55ff0f8c4a94da3f14c59905e576277c97df2772f9c8118a5f59a5b2eb"
+        }
+    },
+    "bin": "drone-scp.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/appleboy/drone-scp/releases/download/v$version/drone-scp-v$version-windows-amd64.exe#/drone-scp.exe",
+                "hash": {
+                    "url": "https://github.com/appleboy/drone-scp/releases/download/v$version/drone-scp-v$version-windows-amd64.exe.sha256"
+                }
+            },
+            "32bit": {
+                "url": "https://github.com/appleboy/drone-scp/releases/download/v$version/drone-scp-v$version-windows-386.exe#/drone-scp.exe",
+                "hash": {
+                    "url": "https://github.com/appleboy/drone-scp/releases/download/v$version/drone-scp-v$version-windows-386.exe.sha256"
+                }
+            }
+        }
+    }
+}

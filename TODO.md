@@ -7,7 +7,6 @@
 - [bombardier](https://github.com/codesenberg/bombardier)
 - [blast](https://github.com/dave/blast)
 - [depcharge](https://github.com/centerorbit/depcharge)
-- [drone-scp](https://github.com/appleboy/drone-scp)
 - [govvv](https://github.com/ahmetb/govvv)
 - [kcli](https://github.com/cswank/kcli)
 - [lwd](https://github.com/timdp/lwc)
