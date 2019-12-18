@@ -4,5 +4,4 @@
 - [sonic-pi](https://github.com/samaaron/sonic-pi)
 - [nebula](https://github.com/slackhq/nebula)
 - [aurora](https://github.com/xuri/aurora)
-- [bombardier](https://github.com/codesenberg/bombardier)
 - [depcharge](https://github.com/centerorbit/depcharge)
