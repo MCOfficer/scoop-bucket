@@ -1,7 +1,7 @@
 {
     "description": "Blender Experimental Builds - Use at your own risk",
     "homepage": "https://builder.blender.org",
-    "version": "2019-12-18.e0cd5b980fc5",
+    "version": "e0cd5b980fc5",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {

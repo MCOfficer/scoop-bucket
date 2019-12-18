@@ -11,5 +11,4 @@
 - [kcli](https://github.com/cswank/kcli)
 - [lwd](https://github.com/timdp/lwc)
 - [pomerium](https://github.com/pomerium/pomerium)
-- [skm](https://github.com/TimothyYe/skm)
 - [vegeta](https://github.com/tsenart/vegeta)
