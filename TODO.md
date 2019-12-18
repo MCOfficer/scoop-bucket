@@ -10,4 +10,3 @@
 - [govvv](https://github.com/ahmetb/govvv)
 - [kcli](https://github.com/cswank/kcli)
 - [lwd](https://github.com/timdp/lwc)
-- [vegeta](https://github.com/tsenart/vegeta)
