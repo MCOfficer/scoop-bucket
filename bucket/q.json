@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/harelba/q/releases/download/2.0.7/q-AMD64-Windows.exe#/q.exe"
+                "url": "https://github.com/harelba/q/releases/download/$version/q-AMD64-Windows.exe#/q.exe"
             }
         }
     }
