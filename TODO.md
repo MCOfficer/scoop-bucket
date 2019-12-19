@@ -15,4 +15,3 @@
 - [flog](https://github.com/mingrammer/flog)
 - [moro](https://github.com/albacoretuna/moro)
 - [ledger](https://github.com/AlexanderAA/ledger_binaries_windows)(Contribute a CD via Actions?)
-- [cointop](https://github.com/miguelmota/cointop)
