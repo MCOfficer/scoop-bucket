@@ -12,6 +12,5 @@
 - [epr](https://github.com/wustho/epr)
 - [reachable](https://github.com/italolelis/reachable)
 - [shell2http](https://github.com/msoap/shell2http)
-- [flog](https://github.com/mingrammer/flog)
 - [moro](https://github.com/albacoretuna/moro)
 - [ledger](https://github.com/AlexanderAA/ledger_binaries_windows)(Contribute a CD via Actions?)
