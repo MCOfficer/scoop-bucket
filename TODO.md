@@ -8,6 +8,5 @@
 - [ssh-chat](https://github.com/shazow/ssh-chat)
 - [pianobar](https://github.com/thedmd/pianobar-windows)
 - [nehm](https://github.com/bogem/nehm)
-- [mpsyt](https://github.com/mps-youtube/mps-youtube)
 - [moro](https://github.com/albacoretuna/moro)
 - [ledger](https://github.com/AlexanderAA/ledger_binaries_windows)(Contribute a CD via Actions?)
