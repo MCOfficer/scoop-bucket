@@ -1,12 +1,12 @@
 {
     "description": "A command line tool that allows direct execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).",
     "homepage": "http://harelba.github.io/q",
-    "version": "2.0.7",
+    "version": "2.0.8",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/harelba/q/releases/download/2.0.7/q-AMD64-Windows.exe#/q.exe",
-            "hash": "023b6077d2880b577e7aad36a4b3a0050fb69c2c84f350493011563e912f7c09"
+            "url": "https://github.com/harelba/q/releases/download/2.0.8/q-AMD64-Windows.exe#/q.exe",
+            "hash": "b25ad84228a4c9d4c6a9e83b7cc9e8a2bd8c687cac4ea7a946697f1504191dd3"
         }
     },
     "bin": "q.exe",
