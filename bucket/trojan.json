@@ -1,10 +1,10 @@
 {
     "description": "An unidentifiable mechanism that helps you bypass GFW.",
     "homepage": "https://github.com/trojan-gfw/trojan",
-    "version": "1.13.0",
+    "version": "1.14.0",
     "license": "GPL-3.0-or-later",
-    "url": "https://github.com/trojan-gfw/trojan/releases/download/v1.13.0/trojan-1.13.0-win.zip",
-    "hash": "f57169aaf2a276e233e77898508fb38d5316e76ebd15e08631c02c57b7b55eab",
+    "url": "https://github.com/trojan-gfw/trojan/releases/download/v1.14.0/trojan-1.14.0-win.zip",
+    "hash": "ba38985008e5731afdef3cb80ac5bd42d9471536d4a53cd6a6294ef9994d9ed6",
     "extract_dir": "trojan",
     "bin": "trojan.exe",
     "checkver": "github",
