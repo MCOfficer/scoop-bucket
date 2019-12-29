@@ -1,12 +1,12 @@
 {
     "description": "The fastest and most interactive terminal based UI application for tracking cryptocurrencies.",
     "homepage": "https://cointop.sh/",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/miguelmota/cointop/releases/download/1.4.1/cointop_1.4.1_windows_amd64.tar.gz",
-            "hash": "7a3036b2a4a7e5ce7bf0a46f18b44600537350fe985d74b5c87d71aa4decf19f"
+            "url": "https://github.com/miguelmota/cointop/releases/download/1.4.2/cointop_1.4.2_windows_amd64.tar.gz",
+            "hash": "6bd7e04ef49d8750474db581c9af8b07c3606a72882d06fe80750c79badb3b06"
         }
     },
     "bin": "cointop.exe",
