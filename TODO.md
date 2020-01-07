@@ -10,3 +10,7 @@
 - [nehm](https://github.com/bogem/nehm)
 - [moro](https://github.com/albacoretuna/moro)
 - [ledger](https://github.com/AlexanderAA/ledger_binaries_windows)(Contribute a CD via Actions?)
+- [nethermind](https://github.com/NethermindEth/nethermind)
+- [stylecop](https://github.com/StyleCop/StyleCop)
+- [dnSpy](https://github.com/0xd4d/dnSpy)
+- [DocNet](https://github.com/FransBouma/DocNet)
