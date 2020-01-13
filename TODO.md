@@ -5,7 +5,6 @@
 - [nebula](https://github.com/slackhq/nebula)
 - [aurora](https://github.com/xuri/aurora)
 - [depcharge](https://github.com/centerorbit/depcharge)
-- [ssh-chat](https://github.com/shazow/ssh-chat)
 - [pianobar](https://github.com/thedmd/pianobar-windows)
 - [moro](https://github.com/albacoretuna/moro)
 - [ledger](https://github.com/AlexanderAA/ledger_binaries_windows)(Contribute a CD via Actions?)
