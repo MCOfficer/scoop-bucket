@@ -1,14 +1,34 @@
 {
     "description": "Kcli is a kafka read only command line browser.",
     "homepage": "https://github.com/cswank/kcli",
-    "version": "1.8.0",
+    "version": "1.8.3",
     "license": "MIT",
-    "url": "https://github.com/cswank/kcli/releases/download/1.8.0/kcli.zip",
-    "hash": "1603980ea39ef3eaba70dc096f33b92ae2393f2cc09ce9b8a500191bb49940fa",
-    "extract_dir": "kcli/windows",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cswank/kcli/releases/download/1.8.3/kcli_1.8.3_Windows_x86_64.tar.gz",
+            "hash": "046c290ea5710a1ea519c87a8da08b7c1c51fa8d4ce968d994a9d8a8e3e5ce5f"
+        },
+        "32bit": {
+            "url": "https://github.com/cswank/kcli/releases/download/1.8.3/kcli_1.8.3_Windows_i386.tar.gz",
+            "hash": "f58d28b2d91fd812d8aa5fcab3fa8b95cd9114352ac7de21a8d01def56a4bb98"
+        }
+    },
     "bin": "kcli.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/cswank/kcli/releases/download/$version/kcli.zip"
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/cswank/kcli/releases/download/$version/kcli_$version_Windows_x86_64.tar.gz",
+                "hash": {
+                    "url": "https://github.com/cswank/kcli/releases/download/$version/checksums.txt"
+                }
+            },
+            "32bit": {
+                "url": "https://github.com/cswank/kcli/releases/download/$version/kcli_$version_Windows_i386.tar.gz",
+                "hash": {
+                    "url": "https://github.com/cswank/kcli/releases/download/$version/checksums.txt"
+                }
+            }
+        }
     }
 }
