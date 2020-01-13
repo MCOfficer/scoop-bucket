@@ -7,7 +7,6 @@
 - [depcharge](https://github.com/centerorbit/depcharge)
 - [ssh-chat](https://github.com/shazow/ssh-chat)
 - [pianobar](https://github.com/thedmd/pianobar-windows)
-- [nehm](https://github.com/bogem/nehm)
 - [moro](https://github.com/albacoretuna/moro)
 - [ledger](https://github.com/AlexanderAA/ledger_binaries_windows)(Contribute a CD via Actions?)
 - [nethermind](https://github.com/NethermindEth/nethermind)
