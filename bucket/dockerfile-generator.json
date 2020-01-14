@@ -1,10 +1,10 @@
 {
     "description": "dfg is both a go library and an executable that produces valid Dockerfiles using various input channels.",
     "homepage": "https://github.com/ozankasikci/dockerfile-generator",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "license": "GPL-3.0-or-later",
-    "url": "https://github.com/ozankasikci/dockerfile-generator/releases/download/v0.1.0/dfg_v0.1.0_windows_amd64.exe#/dfg.exe",
-    "hash": "5c31cfb67518c78de622a8277c2d0906a7771c6b64a6ca2d4f17815d3b8266b6",
+    "url": "https://github.com/ozankasikci/dockerfile-generator/releases/download/v1.0.0/dfg_v1.0.0_windows_amd64.exe#/dfg.exe",
+    "hash": "16e326c0a0d2c48c54bc0d6165d47939a0c54bf69f35263675a3a74666840562",
     "bin": "dfg.exe",
     "checkver": "github",
     "autoupdate": {
