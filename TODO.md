@@ -2,7 +2,6 @@
 - [stevenarella](https://github.com/iceiix/stevenarella#downloads)
 - [KomodoEdit](https://github.com/Komodo/KomodoEdit)
 - [sonic-pi](https://github.com/samaaron/sonic-pi)
-- [nebula](https://github.com/slackhq/nebula)
 - [aurora](https://github.com/xuri/aurora)
 - [depcharge](https://github.com/centerorbit/depcharge)
 - [pianobar](https://github.com/thedmd/pianobar-windows)
