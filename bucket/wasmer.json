@@ -1,11 +1,14 @@
 {
-    "version": "0.12.0",
+    "version": "0.13.0",
     "description": "The Universal WebAssembly Runtime supporting WASI and Emscripten",
     "homepage": "https://github.com/wasmerio/wasmer",
     "license": "MIT",
-    "url": "https://github.com/wasmerio/wasmer/releases/download/0.12.0/wasmer-windows.exe",
-    "hash": "2fc626865a788845b5ec498664009775ffba20c4c5be5316f139965b15e6fdd6",
-    "bin": ["bin/wapm.exe", "bin/wasmer.exe"],
+    "url": "https://github.com/wasmerio/wasmer/releases/download/0.13.0/wasmer-windows.exe",
+    "hash": "b5b921d40c775614e5aab684788d2de468058fe84e3c698f8339ccafeb1e0a2d",
+    "bin": [
+        "bin/wapm.exe",
+        "bin/wasmer.exe"
+    ],
     "innosetup": true,
     "checkver": "github",
     "autoupdate": {
