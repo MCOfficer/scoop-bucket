@@ -8,3 +8,4 @@
 - [ledger](https://github.com/AlexanderAA/ledger_binaries_windows)(Contribute a CD via Actions?)
 - [nethermind](https://github.com/NethermindEth/nethermind)
 - [stylecop](https://github.com/StyleCop/StyleCop)
+- [hey](https://github.com/rakyll/hey/)
