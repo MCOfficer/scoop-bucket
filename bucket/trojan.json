@@ -9,7 +9,6 @@
     "bin": "trojan.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/trojan-gfw/trojan/releases/download/v$version/trojan-$version-win.zip",
-        "hash": "https://github.com/trojan-gfw/trojan/releases/download/v$version/trojan-$version-win.zip.asc"
+        "url": "https://github.com/trojan-gfw/trojan/releases/download/v$version/trojan-$version-win.zip"
     }
 }

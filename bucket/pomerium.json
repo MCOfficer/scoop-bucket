@@ -18,7 +18,7 @@
             "64bit": {
                 "url": "https://github.com/pomerium/pomerium/releases/download/v$version/pomerium-windows-amd64#/pomerium.exe",
                 "hash": {
-                    "url": "https://github.com/pomerium/pomerium/releases/download/v$version/pomerium-windows-amd64.sha256",
+                    "url": "$url.sha256",
                     "find": "^([a-fA-F0-9]{32,128}).*pomerium-windows-amd64$"
                 }
             }

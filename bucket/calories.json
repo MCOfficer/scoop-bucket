@@ -18,17 +18,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/zupzup/calories/releases/download/$version/calories_$version_windows_64-bit.zip",
-                "hash": {
-                    "url": "https://github.com/zupzup/calories/releases/download/$version/calories_checksums.txt"
-                }
+                "url": "https://github.com/zupzup/calories/releases/download/$version/calories_$version_windows_64-bit.zip"
             },
             "32bit": {
-                "url": "https://github.com/zupzup/calories/releases/download/$version/calories_$version_windows_32-bit.zip",
-                "hash": {
-                    "url": "https://github.com/zupzup/calories/releases/download/$version/calories_checksums.txt"
-                }
+                "url": "https://github.com/zupzup/calories/releases/download/$version/calories_$version_windows_32-bit.zip"
             }
+        },
+        "hash": {
+            "url": "$baseurl/calories_checksums.txt"
         }
     }
 }

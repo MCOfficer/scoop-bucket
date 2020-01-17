@@ -18,17 +18,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/appleboy/drone-scp/releases/download/v$version/drone-scp-v$version-windows-amd64.exe#/drone-scp.exe",
-                "hash": {
-                    "url": "https://github.com/appleboy/drone-scp/releases/download/v$version/drone-scp-v$version-windows-amd64.exe.sha256"
-                }
+                "url": "https://github.com/appleboy/drone-scp/releases/download/v$version/drone-scp-v$version-windows-amd64.exe#/drone-scp.exe"
             },
             "32bit": {
-                "url": "https://github.com/appleboy/drone-scp/releases/download/v$version/drone-scp-v$version-windows-386.exe#/drone-scp.exe",
-                "hash": {
-                    "url": "https://github.com/appleboy/drone-scp/releases/download/v$version/drone-scp-v$version-windows-386.exe.sha256"
-                }
+                "url": "https://github.com/appleboy/drone-scp/releases/download/v$version/drone-scp-v$version-windows-386.exe#/drone-scp.exe"
             }
+        },
+        "hash": {
+            "url": "$url.sha256"
         }
     }
 }
