@@ -1,10 +1,10 @@
 {
     "description": "Utility and API to manipulate (analyze, synchronize and aggregate) images across different Docker registries.",
     "homepage": "https://github.com/ivanilves/lstags",
-    "version": "1.2.10",
+    "version": "1.2.12",
     "license": "Apache-2.0",
-    "url": "https://github.com/ivanilves/lstags/releases/download/v1.2.10/lstags-windows-v1.2.10.tar.gz",
-    "hash": "26cc0c4c18af090b00ca78a130c960c27d3cda0a547dc325a67f62f5f6a62df6",
+    "url": "https://github.com/ivanilves/lstags/releases/download/v1.2.12/lstags-windows-v1.2.12.tar.gz",
+    "hash": "6cadb2fc14bcd2efc900031a9b54a5b6d5cd1d8368a69ea83799396146701ad8",
     "bin": "lstags.exe",
     "checkver": "github",
     "autoupdate": {
