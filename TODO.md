@@ -3,7 +3,6 @@
 - [KomodoEdit](https://github.com/Komodo/KomodoEdit)
 - [aurora](https://github.com/xuri/aurora)
 - [depcharge](https://github.com/centerorbit/depcharge)
-- [pianobar](https://github.com/thedmd/pianobar-windows)
 - [moro](https://github.com/albacoretuna/moro)
 - [ledger](https://github.com/AlexanderAA/ledger_binaries_windows)(Contribute a CD via Actions?)
 - [nethermind](https://github.com/NethermindEth/nethermind)
