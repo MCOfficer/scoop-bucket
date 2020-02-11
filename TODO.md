@@ -9,4 +9,3 @@
 - [nethermind](https://github.com/NethermindEth/nethermind)
 - [stylecop](https://github.com/StyleCop/StyleCop)
 - [hey](https://github.com/rakyll/hey/)
-- [v](https://github.com/vlang/v)
