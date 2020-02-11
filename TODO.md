@@ -1,7 +1,6 @@
 - [lsd](https://github.com/Peltoche/lsd) (Will have Windows builds soon™)
 - [stevenarella](https://github.com/iceiix/stevenarella#downloads)
 - [KomodoEdit](https://github.com/Komodo/KomodoEdit)
-- [aurora](https://github.com/xuri/aurora)
 - [depcharge](https://github.com/centerorbit/depcharge)
 - [moro](https://github.com/albacoretuna/moro)
 - [ledger](https://github.com/AlexanderAA/ledger_binaries_windows)(Contribute a CD via Actions?)
