@@ -1,12 +1,12 @@
 {
     "description": "HTTP load testing tool and library. It's over 9000!",
     "homepage": "https://github.com/tsenart/vegeta",
-    "version": "12.8.2",
+    "version": "12.8.3",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tsenart/vegeta/releases/download/v12.8.2/vegeta-12.8.2-windows-amd64.zip",
-            "hash": "b2d60964ccdd515816656e755d09f967f24935513b0076dcb4ae5464d24a8de9"
+            "url": "https://github.com/tsenart/vegeta/releases/download/v12.8.3/vegeta-12.8.3-windows-amd64.zip",
+            "hash": "f83f448d200885ccf032374c99b71acfb484ea8fb5e4c3c8dcc96693e6e1c294"
         }
     },
     "bin": "vegeta.exe",
