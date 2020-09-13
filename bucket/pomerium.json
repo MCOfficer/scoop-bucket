@@ -1,7 +1,7 @@
 {
     "description": "Pomerium is an identity-aware access proxy.",
     "homepage": "https://www.pomerium.io/",
-    "version": "0.6.4",
+    "version": "0.10.3",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
