@@ -18,13 +18,13 @@
     ],
     "checkver": {
         "url": "https://builder.blender.org/download/",
-        "re": "(?:Windows 64 bit.*?<small>.*? - )(.*?)(?:</small>)"
+        "re": "Windows 64 bit.*?Blender (?<main>[\\d.]+).*?<small>.*?- +(.*?)</small>"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://builder.blender.org/download/blender-2.83-$version-windows64.zip",
-                "extract_dir": "blender-2.83-$version-windows64"
+                "url": "https://builder.blender.org/download/blender-$matchMain-$version-windows64.zip",
+                "extract_dir": "blender-$matchMain-$version-windows64"
             }
         }
     }
