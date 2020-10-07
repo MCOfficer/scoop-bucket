@@ -1,13 +1,13 @@
 {
     "description": "Blender Experimental Builds - Use at your own risk",
     "homepage": "https://builder.blender.org",
-    "version": "3178dc25f6ed",
+    "version": "099ce95ef36d",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://builder.blender.org/download/blender-2.91.0-3178dc25f6ed-windows64.zip",
-            "hash": "4a9b44b0c322a03ea58cd945d1543e4a43dc1de0f201652eb23904b0e7d6090a",
-            "extract_dir": "blender-2.91.0-3178dc25f6ed-windows64"
+            "url": "https://builder.blender.org/download/blender-2.91.0-099ce95ef36d-windows64.zip",
+            "hash": "b594043ca3a3c1d3b9e16cd645f33ca744e448ad021429d7b6ffb0f10d628202",
+            "extract_dir": "blender-2.91.0-099ce95ef36d-windows64"
         }
     },
     "bin": [
