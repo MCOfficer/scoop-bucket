@@ -1,10 +1,10 @@
 {
     "description": "Qalculate! is a multi-purpose cross-platform desktop calculator.",
     "homepage": "http://qalculate.github.io/",
-    "version": "3.20.1",
+    "version": "3.21.0",
     "license": "GPL-2.0-or-later",
-    "url": "https://github.com/Qalculate/libqalculate/releases/download/v3.20.1/qalculate-3.20.1-i386.zip",
-    "hash": "e82cf15d322c496970752559dd45affb7d636b812e95a2dcde711f8573e12ea9",
+    "url": "https://github.com/Qalculate/libqalculate/releases/download/v3.21.0/qalculate-3.21.0-i386.zip",
+    "hash": "073b3a583d62f6ad5adcbca297fd171a04e5e4391a3c748e826fa688fc355fd5",
     "extract_dir": "qalculate",
     "bin": [
         "qalc.exe",
