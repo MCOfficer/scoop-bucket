@@ -1,16 +1,16 @@
 {
     "description": "Cross-platform beanstalkd queue server admin console.",
     "homepage": "https://github.com/xuri/aurora",
-    "version": "2.1",
+    "version": "2.2",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xuri/aurora/releases/download/2.1/aurora_windows_amd64_v2.1.zip",
-            "hash": "sha1:7a8dfd05768cfbb67243a25f3d3078bf83228d9a"
+            "url": "https://github.com/xuri/aurora/releases/download/2.2/aurora_windows_amd64_v2.2.zip",
+            "hash": "sha1:e0ed9f2590cd95eb891b5d33f77b4f5ca2ebfb52"
         },
         "32bit": {
-            "url": "https://github.com/xuri/aurora/releases/download/2.1/aurora_windows_i386_v2.1.zip",
-            "hash": "sha1:b49e9fef1ec892cca323af698dc2ffc0f5165da3"
+            "url": "https://github.com/xuri/aurora/releases/download/2.2/aurora_windows_i386_v2.2.zip",
+            "hash": "sha1:3b7626fa9f1cda81279ae5f29ee6ba8241f60730"
         }
     },
     "bin": "aurora.exe",
