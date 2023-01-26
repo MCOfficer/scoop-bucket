@@ -1,10 +1,10 @@
 {
     "description": "Go Hosting Solution for AWS, Google Could and Digital Ocean.",
     "homepage": "https://github.com/go-furnace/go-furnace",
-    "version": "2.3.7",
+    "version": "2.3.6",
     "license": "MIT",
-    "url": "https://github.com/go-furnace/go-furnace/releases/download/v2.3.7/go-furnace_2.3.7_windows_amd64.tar.gz",
-    "hash": "fbcb0e641ad5b37b08ac234829b822c6f6bc8dc661c36f404347bbc0a3b28e63",
+    "url": "https://github.com/go-furnace/go-furnace/releases/download/v2.3.6/go-furnace_2.3.6_windows_amd64.tar.gz",
+    "hash": "2411556757b976ba9ba3f9e2c6169b652afb580bceb63faa1c935b3bd3836280",
     "bin": [
         "furnace-aws.exe",
         "furnace-do.exe",
